@@ -1,12 +1,26 @@
-- 👋 Hi, I’m elif nur kolsuz 
-- 👀 i am a student of the department of informatics at OSB technical college
-- 🌱 I’m currently learning C# ...
-- 📫 How to reach me ...
-- ınstagram; 1elif_nurrrr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 👋 Merhaba, ben Elif Kolsuz
+* 🎓 OSB Teknik Koleji Bilişim Bölümü öğrencisiyim
+* 💻 Şu anda **Java programlama dili** öğreniyorum
+* 🌱 Yazılım alanında kendimi geliştirmeye çalışıyorum ve yeni bilgiler öğrenmeye açığım
+* 🚀 Küçük projeler yaparak deneyim kazanmaya çalışıyorum
+* 📫 Bana ulaşmak için:
+  * Instagram: **@3elif_kolszz**
+    
+* 😄 Zamirler: she/her
+* ⚡ Eğlenceli bilgi: Yeni şeyler öğrenmeyi ve kod yazmayı seviyorum
 
-<!---
-elifkollsuz/elifkollsuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+* Java (başlangıç seviyesi)
+* Git & GitHub (temel kullanım)
+
+---
+
+### 📌 Hedeflerim
+
+* Java’da kendimi geliştirmek
+* Daha fazla proje yaparak deneyim kazanmak
+* Yazılım alanında ilerlemek
+
