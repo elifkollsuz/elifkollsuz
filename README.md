@@ -3,8 +3,7 @@
 * 💻 Şu anda **Java programlama dili** öğreniyorum
 * 🌱 Yazılım alanında kendimi geliştirmeye çalışıyorum ve yeni bilgiler öğrenmeye açığım
 * 🚀 Küçük projeler yaparak deneyim kazanmaya çalışıyorum
-* 📫 Bana ulaşmak için:
-  * Instagram: **@3elif_kolszz**
+
     
 * 😄 Zamirler: she/her
 * ⚡ Eğlenceli bilgi: Yeni şeyler öğrenmeyi ve kod yazmayı seviyorum
